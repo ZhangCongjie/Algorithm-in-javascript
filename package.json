@@ -1,0 +1,30 @@
+{
+  "name": "algorithm-in-javascript",
+  "version": "1.0.0",
+  "description": "Implementations of algorithms in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhangCongjie/Algorithm-in-javascript.git"
+  },
+  "keywords": [
+    "algorithm",
+    "javascript"
+  ],
+  "author": "Zhangcongjie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZhangCongjie/Algorithm-in-javascript/issues"
+  },
+  "homepage": "https://github.com/ZhangCongjie/Algorithm-in-javascript#readme",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-mocha": "^2.1.2",
+    "should": "^7.0.2"
+  }
+}
